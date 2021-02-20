@@ -1,5 +1,5 @@
 #!/system/bin/python
-#Fl00d 2.0 27-06-2017 (1:42)
+#Flood 2.0 20-02-2021 (12:27)
 #Tool for UDP Flood
 #Authorized by GURU
 #UNKNOWN HACKERS Team
